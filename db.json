@@ -1,0 +1,29 @@
+{
+    "tweets": [
+        {
+            "userName": "John Doe",
+            "description": "Hello I am a tweet description"
+        },
+        {
+            "userName": "Meni Mano",
+            "description": "Hello I am a tweet description"
+        },
+        {
+            "userName": "Meni Mano",
+            "description": "Hello I am a tweet description"
+        },
+        {
+            "userName": "Meni Mano",
+            "description": "Hello I am a tweet description"
+        },
+        {
+            "userName": "Suzi Mendi",
+            "description": "Hello I am a tweet description"
+        }
+    ],
+"userData": {
+        "coverImagePath": "https://pbs.twimg.com/profile_banners/1018006119468421120/1560693180/1500x500",
+        "profileImagePath": "https://pbs.twimg.com/profile_banners/1018006119468421120/1560693180/1500x500",
+        "aboutMe": "Born and raised here so I am part of twitter and will always be"
+    }
+}
